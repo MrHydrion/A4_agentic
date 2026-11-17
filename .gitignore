@@ -1,0 +1,124 @@
+
+# Project-specific files
+reverie/backend_server/utils.py
+frontend_server/settings/local.py
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+bin/
+include/
+pip-selfcheck.json
+
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Simulation outputs
+outputs/logs/
+outputs/backups/
+
+# Simulation states
+# Keep the clean base_cafe_spiral state in Git.
+# Ignore other generated simulation directories.
+frontend_server/storage/*
+!frontend_server/storage/base_cafe_spiral/
+!frontend_server/storage/base_cafe_spiral/**
+
+# Frontend assets
+# Kept locally; not included in the Git repository.
+frontend_server/static_dirs/
+
+# Temporary Go debug binaries
+__debug_bin*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python bytecode and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Python packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing and coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache/
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django
+*.log
+local_settings.py
+
+# Flask
+instance/
+.webassets-cache/
+
+# Scrapy
+.scrapy/
+
+# Sphinx
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython / Jupyter
+.ipynb_checkpoints/
+
+# pyenv
+.python-version
+
+# Celery
+celerybeat-schedule
+
+# IDE files
+.spyderproject
+.ropeproject
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
