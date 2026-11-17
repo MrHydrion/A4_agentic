@@ -1,27 +1,53 @@
+
+# Project-specific files
 reverie/backend_server/utils.py
 frontend_server/settings/local.py
-storage/*
-static_dirs/*
 
-!storage/base_the_ville_isabella_maria_klaus/*
-!storage/base_the_ville_n25/*
-
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
 bin/
 include/
 pip-selfcheck.json
-.DS_Store
 
-# Byte-compiled / optimized / DLL files
+# Environment variables and API keys
+.env
+.env.*
+!.env.example
+
+# Simulation outputs
+outputs/logs/
+outputs/backups/
+
+# Simulation states
+# Keep the clean base_cafe_spiral state in Git.
+# Ignore other generated simulation directories.
+frontend_server/storage/*
+!frontend_server/storage/base_cafe_spiral/
+!frontend_server/storage/base_cafe_spiral/**
+
+# Frontend assets
+# Kept locally; not included in the Git repository.
+frontend_server/static_dirs/
+
+# Temporary Go debug binaries
+__debug_bin*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python bytecode and compiled files
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
 
-# Distribution / packaging
+# Python packaging
 .Python
-env/
 build/
 develop-eggs/
 dist/
@@ -38,8 +64,6 @@ var/
 *.egg
 
 # PyInstaller
-#  Usually these files are written by a python script from a template
-#  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
 
@@ -47,12 +71,12 @@ var/
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Testing and coverage
 htmlcov/
 .tox/
 .coverage
 .coverage.*
-.cache
+.cache/
 nosetests.xml
 coverage.xml
 *,cover
@@ -62,52 +86,39 @@ coverage.xml
 *.mo
 *.pot
 
-# Django stuff:
+# Django
 *.log
 local_settings.py
 
-# Flask stuff:
+# Flask
 instance/
-.webassets-cache
+.webassets-cache/
 
-# Scrapy stuff:
-.scrapy
+# Scrapy
+.scrapy/
 
-# Sphinx documentation
+# Sphinx
 docs/_build/
 
 # PyBuilder
 target/
 
-# IPython Notebook
-.ipynb_checkpoints
+# IPython / Jupyter
+.ipynb_checkpoints/
 
 # pyenv
 .python-version
 
-# celery beat schedule file
+# Celery
 celerybeat-schedule
 
-# dotenv
-.env
-
-# virtualenv
-venv/
-ENV/
-
-# Spyder project settings
+# IDE files
 .spyderproject
-
-# Rope project settings
 .ropeproject
+.vscode/
+.idea/
 
-# VSCode stuff
-.vscode
-
-# Testing simulations
-frontend_server/storage/test*
-frontend_server/storage/base_cafe_spiral_*
-!frontend_server/storage/base_cafe_spiral
-!frontend_server/storage/base_cafe_spiral_full
-simulation/*
-__debug_bin*
+# Temporary files
+*.tmp
+*.bak
+*.swp
