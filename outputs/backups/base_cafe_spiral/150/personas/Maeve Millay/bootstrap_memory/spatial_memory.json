@@ -1,0 +1,100 @@
+{
+  "the Ville": {
+    "Dorm for Oak Hill College": {
+      "Ayesha Khan's room": [],
+      "Dolores Abernathy's room": [
+        "closet",
+        "computer",
+        "desk",
+        "blackboard",
+        "bed"
+      ],
+      "Meave Millay's room": [
+        "closet",
+        "desk",
+        "bed",
+        "game console"
+      ],
+      "common room": [
+        "common room sofa",
+        "pool table",
+        "common room table"
+      ],
+      "garden": [
+        "dorm garden"
+      ],
+      "kitchen": [
+        "refrigerator",
+        "cooking area",
+        "toaster",
+        "kitchen sink"
+      ],
+      "man's bathroom": [
+        "bathroom sink",
+        "toilet",
+        "shower"
+      ],
+      "woman's bathroom": [
+        "toilet",
+        "shower",
+        "bathroom sink"
+      ]
+    },
+    "Harvey Oak Supply Store": {
+      "supply store": [
+        "supply store product shelf",
+        "behind the supply store counter",
+        "supply store counter"
+      ]
+    },
+    "Hobbs Cafe": {
+      "cafe": [
+        "piano",
+        "refrigerator",
+        "cafe customer seating",
+        "cooking area",
+        "kitchen sink",
+        "behind the cafe counter"
+      ]
+    },
+    "Johnson Park": {
+      "park": [
+        "park garden"
+      ]
+    },
+    "Oak Hill College": {
+      "classroom": [
+        "blackboard",
+        "classroom podium",
+        "classroom student seating"
+      ],
+      "hallway": [],
+      "library": [
+        "library sofa",
+        "library table",
+        "bookshelf"
+      ]
+    },
+    "The Rose and Crown Pub": {
+      "pub": [
+        "cooking area",
+        "microphone",
+        "shelf",
+        "refrigerator",
+        "bar customer seating",
+        "behind the bar counter",
+        "kitchen sink"
+      ]
+    },
+    "The Willows Market and Pharmacy": {
+      "store": [
+        "behind the pharmacy counter",
+        "grocery store shelf",
+        "behind the grocery counter",
+        "grocery store counter",
+        "pharmacy store shelf",
+        "pharmacy store counter"
+      ]
+    }
+  }
+}

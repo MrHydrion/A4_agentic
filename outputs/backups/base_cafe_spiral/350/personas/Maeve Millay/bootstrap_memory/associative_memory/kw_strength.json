@@ -1,0 +1,20 @@
+{
+  "kw_strength_thought": {
+    "found": 1,
+    "johnson park": 3,
+    "maeve millay": 4,
+    "needs to remember to take a walk": 2,
+    "none": 1,
+    "plan": 2,
+    "remembered": 1
+  },
+  "kw_strength_event": {
+    "bathroom sink": 1,
+    "bed": 6,
+    "dolores abernathy": 3,
+    "maeve millay": 7,
+    "morning routine": 4,
+    "none": 4,
+    "water": 1
+  }
+}

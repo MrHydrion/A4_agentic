@@ -1,0 +1,18 @@
+{
+  "kw_strength_thought": {
+    "common interests": 1,
+    "dolores abernathy": 3,
+    "found": 1,
+    "needs to remember": 1,
+    "plan": 2
+  },
+  "kw_strength_event": {
+    "bed": 6,
+    "breakfast": 1,
+    "closet": 2,
+    "dolores abernathy": 10,
+    "maeve millay": 3,
+    "morning routine": 4,
+    "none": 2
+  }
+}

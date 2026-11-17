@@ -1,0 +1,148 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe and open at 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe and open at 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe and open at 8:00am, work at Hobbs Cafe from 8:00am to 4:00pm, have dinner at 8:00pm, go to bed at 11:00pm.",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "None",
+    "description": "Bernard Lowe is waking up (waking up slowly)",
+    "original_description": "Bernard Lowe is waking up (waking up slowly)",
+    "embedding_key": "Bernard Lowe is waking up (waking up slowly)",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unattended",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unattended",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unattended",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:15:50",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:shelf",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:shelf is empty",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:shelf is empty",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:shelf is empty",
+    "poignancy": 2,
+    "valence": -2,
+    "keywords": [
+      "shelf",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up",
+    "object": "washing face",
+    "description": "Bernard Lowe is waking up (washing face)",
+    "original_description": "Bernard Lowe is waking up (washing face)",
+    "embedding_key": "Bernard Lowe is waking up (washing face)",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "washing face"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:shelf",
+    "predicate": "undisturbed",
+    "object": "shelf",
+    "description": "the Ville:Bernard Lowe's apartment:main room:shelf is undisturbed",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:shelf is undisturbed",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:shelf is undisturbed",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "shelf",
+      "shelf"
+    ],
+    "filling": null
+  }
+}

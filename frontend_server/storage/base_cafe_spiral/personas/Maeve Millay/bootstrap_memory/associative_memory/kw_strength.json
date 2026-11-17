@@ -1,0 +1,21 @@
+{
+  "kw_strength_thought": {
+    "found": 4,
+    "johnson park": 12,
+    "maeve millay": 16,
+    "needs to remember to take a walk": 8,
+    "none": 4,
+    "plan": 5,
+    "remembered": 4
+  },
+  "kw_strength_event": {
+    "bathroom sink": 4,
+    "bed": 24,
+    "dolores abernathy": 15,
+    "hobbs cafe": 4,
+    "maeve millay": 26,
+    "morning routine": 16,
+    "none": 13,
+    "water": 4
+  }
+}

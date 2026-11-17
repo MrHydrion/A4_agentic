@@ -1,0 +1,41 @@
+{
+  "kw_strength_thought": {
+    "a strong sense of responsibility and duty towards my job and colleagues at hobbs cafe": 2,
+    "appreciating": 2,
+    "being prepared": 2,
+    "common interests": 4,
+    "concerned about": 2,
+    "dolores abernathy": 54,
+    "enjoy": 2,
+    "finding comfort in": 4,
+    "found": 4,
+    "found it interesting": 4,
+    "have": 2,
+    "her shift at the cafe": 4,
+    "i": 2,
+    "my shift at hobbs cafe": 2,
+    "needs to remember": 8,
+    "none": 18,
+    "plan": 5,
+    "prioritize": 4,
+    "relationships": 2,
+    "routine and planning": 2,
+    "shift at hobbs cafe": 2,
+    "struggle": 2,
+    "take care of": 2,
+    "tend to get flustered": 2,
+    "value": 2,
+    "values": 2,
+    "valuing": 2
+  },
+  "kw_strength_event": {
+    "bed": 27,
+    "breakfast": 4,
+    "closet": 8,
+    "dolores abernathy": 47,
+    "hobbs cafe": 5,
+    "maeve millay": 24,
+    "morning routine": 20,
+    "none": 5
+  }
+}

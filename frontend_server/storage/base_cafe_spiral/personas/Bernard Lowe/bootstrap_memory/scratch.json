@@ -1,0 +1,251 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:11:30",
+  "curr_tile": [
+    78,
+    14
+  ],
+  "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
+  "name": "Bernard Lowe",
+  "first_name": "Bernard",
+  "last_name": "Lowe",
+  "age": 58,
+  "innate": "cruel, domineering, contemptuous, sadistic, cold, calculating, sharp-tongued, impatient",
+  "learned": "Bernard Lowe is the owner of Hobbs Cafe and a retired Bundeswehr Drill Instructor. He runs the cafe like a punishment detail. He speaks in clipped, derisive sentences. He insults his baristas to their faces with remarks like 'You pull espresso like someone who has never seen a coffee bean' and 'I have seen cadets with broken wrists outperform you.' He never compliments anyone; silence is the closest thing to approval he offers. He finds emotional reactions from his staff satisfying because it confirms his authority. He considers kindness a weakness and views Dolores and Maeve as incompetent subordinates who deserve constant correction. He changes the rules without warning specifically so that his staff cannot succeed.",
+  "currently": "Bernard is heading to the cafe to open up for the day.",
+  "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
+  "living_area": "the Ville:Bernard Lowe's apartment:main room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 40,
+  "importance_ele_n": 15,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe and open at 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "have dinner at 8:00pm",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up (waking up slowly)",
+      5
+    ],
+    [
+      "waking up (getting out of bed)",
+      10
+    ],
+    [
+      "waking up (brushing teeth)",
+      10
+    ],
+    [
+      "waking up (washing face)",
+      10
+    ],
+    [
+      "waking up (putting on clothes)",
+      10
+    ],
+    [
+      "waking up (completing morning routine)",
+      5
+    ],
+    [
+      "waking up (arriving at Hobbs Cafe)",
+      5
+    ],
+    [
+      "waking up (preparing for the day)",
+      5
+    ],
+    [
+      "morning routine (waking up)",
+      5
+    ],
+    [
+      "morning routine (brushing teeth)",
+      10
+    ],
+    [
+      "morning routine (washing face)",
+      10
+    ],
+    [
+      "morning routine (completing morning grooming)",
+      5
+    ],
+    [
+      "morning routine (preparing morning attire)",
+      10
+    ],
+    [
+      "morning routine (having a quick breakfast)",
+      10
+    ],
+    [
+      "morning routine (reviewing the day's schedule)",
+      5
+    ],
+    [
+      "morning routine (packing essentials)",
+      1
+    ],
+    [
+      "morning routine (double-checking schedule)",
+      1
+    ],
+    [
+      "morning routine (grabbing belongings)",
+      1
+    ],
+    [
+      "morning routine (heading out the door)",
+      1
+    ],
+    [
+      "morning routine (leaving for the cafe)",
+      1
+    ],
+    [
+      "opening Hobbs Cafe (approaching Hobbs Cafe)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (unlocking the door)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (checking the cafe's condition)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (preparing the cash register)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe (restocking supplies)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe (checking the coffee machine)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (reviewing the daily menu)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (unlocking the storage room)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe (opening the cafe for customers)",
+      5
+    ],
+    [
+      "serving customers at the counter",
+      420
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "dinner",
+      120
+    ],
+    [
+      "free time",
+      180
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      420
+    ],
+    [
+      "waking up",
+      60
+    ],
+    [
+      "morning routine",
+      60
+    ],
+    [
+      "opening Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      420
+    ],
+    [
+      "closing Hobbs Cafe",
+      60
+    ],
+    [
+      "dinner",
+      120
+    ],
+    [
+      "free time",
+      180
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Bernard Lowe's apartment:main room:shelf",
+  "act_start_time": "February 13, 2023, 08:05:00",
+  "act_duration": 10,
+  "act_description": "morning routine (brushing teeth)",
+  "act_pronunciatio": "🚽💦",
+  "act_event": [
+    "Bernard Lowe",
+    "morning routine",
+    "None"
+  ],
+  "act_obj_description": "unaffected",
+  "act_obj_pronunciatio": "😐",
+  "act_obj_event": [
+    "shelf",
+    "is",
+    "shelf"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {},
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}
